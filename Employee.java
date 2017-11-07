@@ -1,6 +1,11 @@
-// This exercise tests and prints objects of an Employee's first name, surname, and year of joining
+/**
+*@author Jacob Smith
+*This exercise tests and prints objects of an Employee's first name, surname,
+*and year of joining
+*/
+
 public class Employee {
-	
+
 	private String firstName;
 	private String surname;
 	int yearOfJoining;
