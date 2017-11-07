@@ -1,10 +1,15 @@
-// In this exercise we're producing a students name, date of birth, student ID, and degree programme
+/**
+*@author Jacob Smith
+*In this exercise we're producing a students name, date of birth, student ID,
+*and degree programme
+*/
+
 public class Student {
 	private String name;
 	private String dateOfBirth;
 	private String studentID;
 	private String degreeProgramme;
-	
+
 	public Student(String name, String dateOfBirth, String studentID, String degreeProgramme) { // We have the constructors of the field variables
 		super();
 		this.name = name;
