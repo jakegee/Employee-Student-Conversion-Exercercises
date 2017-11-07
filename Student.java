@@ -1,7 +1,7 @@
 /**
-*@author Jacob Smith
-*In this exercise we're producing a students name, date of birth, student ID,
-*and degree programme
+* @author Jacob Smith
+* In this exercise we're producing a students name, date of birth, student ID,
+* and degree programme
 */
 
 public class Student {

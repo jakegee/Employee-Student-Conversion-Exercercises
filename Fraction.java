@@ -1,7 +1,7 @@
 /**
-*@author Jacob Smith
-*This exercise has has us printing a fraction, adding, multiplying, and
-*comparing fractions as well
+* @author Jacob Smith
+* This exercise has has us printing a fraction, adding, multiplying, and
+* comparing fractions as well
 */
 
 public class Fraction {

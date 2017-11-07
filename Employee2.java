@@ -1,6 +1,6 @@
 /**
-*@author Jacob Smith
-*In this exercise we show an employee's identity and salary for time worked
+* @author Jacob Smith
+* In this exercise we show an employee's identity and salary for time worked
 */
 
 public class Employee2 {

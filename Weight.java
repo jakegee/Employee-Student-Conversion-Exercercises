@@ -1,7 +1,7 @@
 /**
-*@author Jacob Smith
-*This exercise converts kilograms into pounds, displays kilograms, and
-*converts kilograms into ounces
+* @author Jacob Smith
+* This exercise converts kilograms into pounds, displays kilograms, and
+* converts kilograms into ounces
 */
 
 public class Weight {
